@@ -1,0 +1,53 @@
+/*font-family: 'Shadows Into Light', cursive;*/
+
+
+/*font-family: 'Dancing Script', cursive;*/
+
+body {
+    overflow-x: hidden;
+    background-color: #000;
+    color: white;
+}
+
+.jumbotron {
+    text-align: center;
+    margin-top: 10px;
+    height: 200px;
+    color: white;
+    background-image: url("https://media0.giphy.com/media/pPXOZz0h2r1ug/200.gif");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-weight: bold;
+}
+
+h3 {
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;
+    text-align: center;
+}
+
+.three-box {
+    padding: 20px;
+}
+
+.box {
+    border: 10px;
+}
+
+img {
+    width: 356px;
+    height: 200px;
+}
+
+.input {
+    height: 50px;
+}
+
+.bot-btn {
+    margin-right:20px;
+}
